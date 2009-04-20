@@ -29,8 +29,8 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* moo2ViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 1400}}";
-			sepNavSelRange = "{1872, 238}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1344}}";
+			sepNavSelRange = "{1584, 0}";
 			sepNavVisRange = "{1374, 1218}";
 		};
 	};
@@ -43,7 +43,6 @@
 			1D6058900D05DD3D006BFB54 /* moo2 */,
 		);
 		breakpoints = (
-			694520E40F9CFCE800099AEC /* moo2ViewController.m:68 */,
 		);
 		codeSenseManager = 69C686130F9CD27800A26F0F /* Code sense */;
 		executables = (
@@ -108,8 +107,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 261945972;
-			PBXWorkspaceStateSaveDate = 261945972;
+			PBXPerProjectTemplateStateSaveDate = 261947149;
+			PBXWorkspaceStateSaveDate = 261947149;
 		};
 		perUserProjectItems = {
 			692C3F5F0F9CEDCE00CD49D7 /* PlistBookmark */ = 692C3F5F0F9CEDCE00CD49D7 /* PlistBookmark */;
@@ -124,11 +123,11 @@
 			692C40170F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C40170F9CF87C00CD49D7 /* PBXTextBookmark */;
 			692C40180F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C40180F9CF87C00CD49D7 /* PBXTextBookmark */;
 			692C401A0F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C401A0F9CF87C00CD49D7 /* PBXTextBookmark */;
-			694520C10F9CFA8C00099AEC /* PBXTextBookmark */ = 694520C10F9CFA8C00099AEC /* PBXTextBookmark */;
 			694520EA0F9CFDD600099AEC /* PBXTextBookmark */ = 694520EA0F9CFDD600099AEC /* PBXTextBookmark */;
 			69C686300F9CD4BC00A26F0F /* PBXTextBookmark */ = 69C686300F9CD4BC00A26F0F /* PBXTextBookmark */;
 			69C686310F9CD4BC00A26F0F /* PBXTextBookmark */ = 69C686310F9CD4BC00A26F0F /* PBXTextBookmark */;
 			69C6864F0F9CD66E00A26F0F /* PBXTextBookmark */ = 69C6864F0F9CD66E00A26F0F /* PBXTextBookmark */;
+			69E804360F9CFF9B00C3D425 /* PBXTextBookmark */ = 69E804360F9CFF9B00C3D425 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 69C686120F9CD27800A26F0F /* Source Control */;
 		userBuildSettings = {
@@ -171,18 +170,6 @@
 		name = moo2_Prefix.pch;
 		path = "/Users/goomerko/prog/mac/iphone/iphone-moo/moo2_Prefix.pch";
 		sourceTree = "<absolute>";
-	};
-	692C400B0F9CF87500CD49D7 /* moo2ViewController.m */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.c.objc;
-		name = moo2ViewController.m;
-		path = "/Users/goomerko/prog/mac/iphone/iphone-moo/Classes/moo2ViewController.m";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 1400}}";
-			sepNavSelRange = "{1872, 238}";
-			sepNavVisRange = "{1374, 1218}";
-		};
 	};
 	692C400C0F9CF87C00CD49D7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -312,39 +299,6 @@
 		path = /System/Library/Frameworks/CoreAudio.framework/Headers/AudioHardware.h;
 		sourceTree = "<absolute>";
 	};
-	694520C10F9CFA8C00099AEC /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 692C400B0F9CF87500CD49D7 /* moo2ViewController.m */;
-		name = "moo2ViewController.m: 80";
-		rLen = 0;
-		rLoc = 2124;
-		rType = 0;
-		vrLen = 1215;
-		vrLoc = 1243;
-	};
-	694520E20F9CFCE800099AEC /* moo2ViewController.m */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.c.objc;
-		name = moo2ViewController.m;
-		path = "/Users/goomerko/prog/mac/iphone/iphone-moo/Classes/moo2ViewController.m";
-		sourceTree = "<group>";
-	};
-	694520E40F9CFCE800099AEC /* moo2ViewController.m:68 */ = {
-		isa = PBXFileBreakpoint;
-		actions = (
-		);
-		breakpointStyle = 0;
-		continueAfterActions = 0;
-		countType = 0;
-		delayBeforeContinue = 0;
-		fileReference = 694520E20F9CFCE800099AEC /* moo2ViewController.m */;
-		functionName = "-deviceDidRotate:";
-		hitCount = 0;
-		ignoreCount = 0;
-		lineNumber = 68;
-		modificationTime = 261946600.972403;
-		state = 1;
-	};
 	694520EA0F9CFDD600099AEC /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* moo2ViewController.m */;
@@ -362,7 +316,7 @@
 		argumentStrings = (
 		);
 		autoAttachOnCrash = 1;
-		breakpointsEnabled = 1;
+		breakpointsEnabled = 0;
 		configStateDict = {
 		};
 		customDataFormattersEnabled = 1;
@@ -428,5 +382,15 @@
 		rType = 0;
 		vrLen = 347;
 		vrLoc = 0;
+	};
+	69E804360F9CFF9B00C3D425 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* moo2ViewController.m */;
+		name = "moo2ViewController.m: 64";
+		rLen = 0;
+		rLoc = 1584;
+		rType = 0;
+		vrLen = 1218;
+		vrLoc = 1374;
 	};
 }
