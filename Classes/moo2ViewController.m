@@ -52,8 +52,11 @@
 
 - (void) deviceDidRotate: (id) sender {
 
-	
-	if ([[UIDevice currentDevice] orientation] == UIDeviceOrientationPortraitUpsideDown) {
+	UIDeviceOrientation orientation;
+	orientation = [[UIDevice currentDevice] orientation];
+	if (orientation == UIDeviceOrientationPortraitUpsideDown ||
+		orientation == UIDeviceOrientationLandscapeRight ||
+		orientation == UIDeviceOrientationLandscapeLeft) {
 		//UIAlertView *alert = [[[UIAlertView alloc] init] autorelease];
 		//alert.title = @"Prueba";
 		//alert.message = @"Esto es una prueba";
