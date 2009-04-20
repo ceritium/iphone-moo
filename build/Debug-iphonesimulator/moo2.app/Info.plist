@@ -8,6 +8,8 @@
 	<string>moo2</string>
 	<key>CFBundleExecutable</key>
 	<string>moo2</string>
+	<key>CFBundleIconFile</key>
+	<string>moo.png</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.yourcompany.moo2</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -28,5 +30,7 @@
 	<true/>
 	<key>NSMainNibFile</key>
 	<string>MainWindow</string>
+	<key>SignerIdentity</key>
+	<string>Apple iPhone OS Application Signing</string>
 </dict>
 </plist>

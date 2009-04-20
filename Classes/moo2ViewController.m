@@ -40,13 +40,42 @@
 */
 
 
-/*
-// Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
-- (void)viewDidLoad {
-    [super viewDidLoad];
-}
-*/
 
+// Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
+- (void) viewDidLoad {
+    [super viewDidLoad];
+	[[UIDevice currentDevice]  beginGeneratingDeviceOrientationNotifications];
+	
+	[[NSNotificationCenter defaultCenter] addObserver:self	selector:@selector(deviceDidRotate:) name:@"UIDeviceOrientationDidChangeNotification" object:nil];
+}
+
+
+- (void) deviceDidRotate: (id) sender {
+
+	
+	if ([[UIDevice currentDevice] orientation] == UIDeviceOrientationPortraitUpsideDown) {
+		//UIAlertView *alert = [[[UIAlertView alloc] init] autorelease];
+		//alert.title = @"Prueba";
+		//alert.message = @"Esto es una prueba";
+		//[alert show];
+		
+		//Play sound ----------------------
+		
+		//Preparar la ruta al fichero
+		NSString *paths = [[NSBundle mainBundle] resourcePath];                     
+		NSString *audioFile = [paths stringByAppendingPathComponent: @"cow.wav"];                                      
+		NSURL *audioURL =  [NSURL fileURLWithPath:audioFile isDirectory:NO];
+		
+		//Crear el sonido
+		SystemSoundID mySSID;
+		AudioServicesCreateSystemSoundID((CFURLRef) audioURL, &mySSID);
+		AudioServicesPlaySystemSound(mySSID);
+		//AudioServicesAddSystemSoundCompletion(mySSID, NULL, NULL, simpleSoundDone, NULL);
+
+		//Vibramos
+		 AudioServicesPlaySystemSound(kSystemSoundID_Vibrate);
+	}
+}
 
 /*
 // Override to allow orientations other than the default portrait orientation.
@@ -55,7 +84,10 @@
     return (interfaceOrientation == UIInterfaceOrientationPortrait);
 }
 */
-
+static void simpleSoundDone
+(SystemSoundID mySSID, void *args){
+	AudioServicesDisposeSystemSoundID(mySSID);
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning]; // Releases the view if it doesn't have a superview

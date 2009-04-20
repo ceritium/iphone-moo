@@ -1,3 +1,16 @@
+00000000000000000000000000000000 2bc70fbc93c1a4b866ff5a39c87e8a88 ffffffffffffffffffffffffffffffff 102 /Users/goomerko/prog/mac/iphone/iphone-moo/build/Debug-iphonesimulator/moo2.app.dSYM
+22e5c6c930c77072664ec56ae76130b1 03a61e6d005496ca6f6b1f922d2bd8fa ffffffffffffffffffffffffffffffff 306 /Users/goomerko/prog/mac/iphone/iphone-moo/build/Debug-iphonesimulator/moo2.app
+b9ebf979f1bdca06b7527eb9858f2e27 3a12a475fafb47951553f2a947feb4ee ffffffffffffffffffffffffffffffff 23764 /Users/goomerko/prog/mac/iphone/iphone-moo/build/Debug-iphonesimulator/moo2.app/moo2
+525ae9e87dcd49cf67f307fa2dd714bf d8892d19657ad45af48837337805b74b ffffffffffffffffffffffffffffffff 24940 /Users/goomerko/prog/mac/iphone/iphone-moo/build/moo2.build/Debug-iphonesimulator/moo2.build/Objects-normal/i386/moo2ViewController.o
+525ae9e873360f7567f307fa2dd765b1 570261beab24b3568298797e7b327fcb ffffffffffffffffffffffffffffffff 25624 /Users/goomerko/prog/mac/iphone/iphone-moo/build/moo2.build/Debug-iphonesimulator/moo2.build/Objects-normal/i386/moo2AppDelegate.o
+525ae9e83421f8b667f307fa2dd7136d 643a5c360b871783a6b1370eabaddf2a ffffffffffffffffffffffffffffffff 6264 /Users/goomerko/prog/mac/iphone/iphone-moo/build/moo2.build/Debug-iphonesimulator/moo2.build/Objects-normal/i386/main.o
+0000000000a7b3fe0000000000001def 525ae9e83a7d216a67f307fa2dd77a8b ffffffffffffffffffffffffffffffff 22662292 /var/folders/Ks/KsIboXlhF0eSkfTHej3+pk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moo2_Prefix-cquqiajjndkmbffgrklmovlschib/moo2_Prefix.pch.gch
+00000000000000000000000000000000 fdb2ecca90e63b94ededc1fb6e572e4c ffffffffffffffffffffffffffffffff 5805 /Users/goomerko/prog/mac/iphone/iphone-moo/build/Debug-iphonesimulator/moo2.app/moo.png
+00000000000000000000000000000000 b8ce0f7b491363e893d614ee2374e6c9 ffffffffffffffffffffffffffffffff 67540 /Users/goomerko/prog/mac/iphone/iphone-moo/build/Debug-iphonesimulator/moo2.app/cow.jpg
+0000000049ec9ad30000000000001c6d 78c2eabc3d38f76aac4c2079fe41717b ffffffffffffffffffffffffffffffff 1418 /Users/goomerko/prog/mac/iphone/iphone-moo/build/Debug-iphonesimulator/moo2.app/moo2ViewController.nib
+0000000049ec9ad3000000000000219e 9ca292c8df4c52f71638bc1696722e75 ffffffffffffffffffffffffffffffff 1456 /Users/goomerko/prog/mac/iphone/iphone-moo/build/Debug-iphonesimulator/moo2.app/MainWindow.nib
+00000000000000000000000000000000 9fc45f0e48c8d3fe8572c2f3aa79ebcc ffffffffffffffffffffffffffffffff 8 /Users/goomerko/prog/mac/iphone/iphone-moo/build/Debug-iphonesimulator/moo2.app/PkgInfo
+00000000000000000000000000000000 9fc45f0e48c8d3fe8572c2f3aa79ebcc ffffffffffffffffffffffffffffffff 1054 /Users/goomerko/prog/mac/iphone/iphone-moo/build/Debug-iphonesimulator/moo2.app/Info.plist
 00000000000000000000000000000000 a4dd7c7bf617d6b44124e4b660f05cb5 ffffffffffffffffffffffffffffffff 102 /Users/ceritium/work/cocoa/iphone-moo/build/Debug-iphonesimulator/moo2.app.dSYM
 794da9394f784d8854cf682d45fb93af dc641535b14f699280f47498dce42d86 ffffffffffffffffffffffffffffffff 272 /Users/ceritium/work/cocoa/iphone-moo/build/Debug-iphonesimulator/moo2.app
 0000000049ec666e0000000000001c6d 2a816015b12353f8935f6bd923e6d8dc ffffffffffffffffffffffffffffffff 1418 /Users/ceritium/work/cocoa/iphone-moo/build/Debug-iphonesimulator/moo2.app/moo2ViewController.nib

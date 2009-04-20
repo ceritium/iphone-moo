@@ -13,6 +13,8 @@
 
 }
 
+- (void) deviceDidRotate: (id) sender;
+
 @property (nonatomic, retain) UISlider *volumen;
 
 
