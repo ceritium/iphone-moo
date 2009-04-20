@@ -1,5 +1,0 @@
-/Users/goomerko/prog/mac/iphone/iphone-moo/Classes/moo2ViewController.m:53: error: can not use an object as parameter to a method
-/Users/goomerko/prog/mac/iphone/iphone-moo/Classes/moo2ViewController.m: In function '-[moo2ViewController deviceDidRotate:]':
-/Users/goomerko/prog/mac/iphone/iphone-moo/Classes/moo2ViewController.m:53: warning: conflicting types for '-(NSNotification)deviceDidRotate:(id)sender'
-/Users/goomerko/prog/mac/iphone/iphone-moo/Classes/moo2ViewController.h:16: warning: previous declaration of '-(void)deviceDidRotate:(id)sender'
-/Users/goomerko/prog/mac/iphone/iphone-moo/Classes/moo2ViewController.m:54: warning: control reaches end of non-void function
