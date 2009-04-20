@@ -1,0 +1,432 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* moo2AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 468}}";
+			sepNavSelRange = "{196, 0}";
+			sepNavVisRange = "{0, 506}";
+		};
+	};
+	1D3623250D0F684500981E51 /* moo2AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 476}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 600}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* moo2 */ = {
+		activeExec = 0;
+		executables = (
+			69C6860E0F9CD25A00A26F0F /* moo2 */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* moo2ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 468}}";
+			sepNavSelRange = "{292, 0}";
+			sepNavVisRange = "{0, 351}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* moo2ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1400}}";
+			sepNavSelRange = "{1872, 238}";
+			sepNavVisRange = "{1374, 1218}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 69C6860E0F9CD25A00A26F0F /* moo2 */;
+		activeSDKPreference = iphoneos2.2.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* moo2 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* moo2 */,
+		);
+		breakpoints = (
+			694520E40F9CFCE800099AEC /* moo2ViewController.m:68 */,
+		);
+		codeSenseManager = 69C686130F9CD27800A26F0F /* Code sense */;
+		executables = (
+			69C6860E0F9CD25A00A26F0F /* moo2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					978,
+					45.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					793,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 261945972;
+			PBXWorkspaceStateSaveDate = 261945972;
+		};
+		perUserProjectItems = {
+			692C3F5F0F9CEDCE00CD49D7 /* PlistBookmark */ = 692C3F5F0F9CEDCE00CD49D7 /* PlistBookmark */;
+			692C3F610F9CEDCE00CD49D7 /* PlistBookmark */ = 692C3F610F9CEDCE00CD49D7 /* PlistBookmark */;
+			692C400C0F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C400C0F9CF87C00CD49D7 /* PBXTextBookmark */;
+			692C400E0F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C400E0F9CF87C00CD49D7 /* PBXTextBookmark */;
+			692C40100F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C40100F9CF87C00CD49D7 /* PBXTextBookmark */;
+			692C40110F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C40110F9CF87C00CD49D7 /* PBXTextBookmark */;
+			692C40120F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C40120F9CF87C00CD49D7 /* PBXTextBookmark */;
+			692C40150F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C40150F9CF87C00CD49D7 /* PBXTextBookmark */;
+			692C40160F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C40160F9CF87C00CD49D7 /* PBXTextBookmark */;
+			692C40170F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C40170F9CF87C00CD49D7 /* PBXTextBookmark */;
+			692C40180F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C40180F9CF87C00CD49D7 /* PBXTextBookmark */;
+			692C401A0F9CF87C00CD49D7 /* PBXTextBookmark */ = 692C401A0F9CF87C00CD49D7 /* PBXTextBookmark */;
+			694520C10F9CFA8C00099AEC /* PBXTextBookmark */ = 694520C10F9CFA8C00099AEC /* PBXTextBookmark */;
+			694520EA0F9CFDD600099AEC /* PBXTextBookmark */ = 694520EA0F9CFDD600099AEC /* PBXTextBookmark */;
+			69C686300F9CD4BC00A26F0F /* PBXTextBookmark */ = 69C686300F9CD4BC00A26F0F /* PBXTextBookmark */;
+			69C686310F9CD4BC00A26F0F /* PBXTextBookmark */ = 69C686310F9CD4BC00A26F0F /* PBXTextBookmark */;
+			69C6864F0F9CD66E00A26F0F /* PBXTextBookmark */ = 69C6864F0F9CD66E00A26F0F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 69C686120F9CD27800A26F0F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* moo2_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 468}}";
+			sepNavSelRange = "{206, 0}";
+			sepNavVisRange = "{0, 214}";
+		};
+	};
+	692C3F5F0F9CEDCE00CD49D7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/goomerko/prog/mac/iphone/iphone-moo/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	692C3F610F9CEDCE00CD49D7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/goomerko/prog/mac/iphone/iphone-moo/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	692C3FFA0F9CF85500CD49D7 /* moo2_Prefix.pch */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = moo2_Prefix.pch;
+		path = "/Users/goomerko/prog/mac/iphone/iphone-moo/moo2_Prefix.pch";
+		sourceTree = "<absolute>";
+	};
+	692C400B0F9CF87500CD49D7 /* moo2ViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = moo2ViewController.m;
+		path = "/Users/goomerko/prog/mac/iphone/iphone-moo/Classes/moo2ViewController.m";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1400}}";
+			sepNavSelRange = "{1872, 238}";
+			sepNavVisRange = "{1374, 1218}";
+		};
+	};
+	692C400C0F9CF87C00CD49D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 692C400D0F9CF87C00CD49D7 /* CoreAudio.h */;
+		name = "CoreAudio.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 724;
+		vrLoc = 0;
+	};
+	692C400D0F9CF87C00CD49D7 /* CoreAudio.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CoreAudio.h;
+		path = /System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudio.h;
+		sourceTree = "<absolute>";
+	};
+	692C400E0F9CF87C00CD49D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 692C400F0F9CF87C00CD49D7 /* AudioHardware.h */;
+		name = "AudioHardware.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1733;
+		vrLoc = 0;
+	};
+	692C400F0F9CF87C00CD49D7 /* AudioHardware.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AudioHardware.h;
+		path = /System/Library/Frameworks/CoreAudio.framework/Headers/AudioHardware.h;
+		sourceTree = "<absolute>";
+	};
+	692C40100F9CF87C00CD49D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* moo2AppDelegate.m */;
+		name = "moo2AppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 600;
+		vrLoc = 0;
+	};
+	692C40110F9CF87C00CD49D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* moo2AppDelegate.h */;
+		name = "moo2AppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 0;
+	};
+	692C40120F9CF87C00CD49D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 692C3FFA0F9CF85500CD49D7 /* moo2_Prefix.pch */;
+		name = "moo2_Prefix.pch: 8";
+		rLen = 0;
+		rLoc = 192;
+		rType = 0;
+		vrLen = 217;
+		vrLoc = 0;
+	};
+	692C40150F9CF87C00CD49D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* moo2AppDelegate.m */;
+		name = "moo2AppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 600;
+		vrLoc = 0;
+	};
+	692C40160F9CF87C00CD49D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* moo2AppDelegate.h */;
+		name = "moo2AppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 0;
+	};
+	692C40170F9CF87C00CD49D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* moo2_Prefix.pch */;
+		name = "moo2_Prefix.pch: 7";
+		rLen = 0;
+		rLoc = 169;
+		rType = 0;
+		vrLen = 177;
+		vrLoc = 0;
+	};
+	692C40180F9CF87C00CD49D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 692C40190F9CF87C00CD49D7 /* CoreAudio.h */;
+		name = "CoreAudio.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 724;
+		vrLoc = 0;
+	};
+	692C40190F9CF87C00CD49D7 /* CoreAudio.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CoreAudio.h;
+		path = /System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudio.h;
+		sourceTree = "<absolute>";
+	};
+	692C401A0F9CF87C00CD49D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 692C401B0F9CF87C00CD49D7 /* AudioHardware.h */;
+		name = "AudioHardware.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1733;
+		vrLoc = 0;
+	};
+	692C401B0F9CF87C00CD49D7 /* AudioHardware.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AudioHardware.h;
+		path = /System/Library/Frameworks/CoreAudio.framework/Headers/AudioHardware.h;
+		sourceTree = "<absolute>";
+	};
+	694520C10F9CFA8C00099AEC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 692C400B0F9CF87500CD49D7 /* moo2ViewController.m */;
+		name = "moo2ViewController.m: 80";
+		rLen = 0;
+		rLoc = 2124;
+		rType = 0;
+		vrLen = 1215;
+		vrLoc = 1243;
+	};
+	694520E20F9CFCE800099AEC /* moo2ViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = moo2ViewController.m;
+		path = "/Users/goomerko/prog/mac/iphone/iphone-moo/Classes/moo2ViewController.m";
+		sourceTree = "<group>";
+	};
+	694520E40F9CFCE800099AEC /* moo2ViewController.m:68 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 694520E20F9CFCE800099AEC /* moo2ViewController.m */;
+		functionName = "-deviceDidRotate:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 68;
+		modificationTime = 261946600.972403;
+		state = 1;
+	};
+	694520EA0F9CFDD600099AEC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* moo2ViewController.m */;
+		name = "moo2ViewController.m: 68";
+		rLen = 238;
+		rLoc = 1872;
+		rType = 0;
+		vrLen = 1218;
+		vrLoc = 1374;
+	};
+	69C6860E0F9CD25A00A26F0F /* moo2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = moo2;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	69C686120F9CD27800A26F0F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	69C686130F9CD27800A26F0F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	69C686280F9CD4AC00A26F0F /* moo2ViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = moo2ViewController.h;
+		path = "/Users/goomerko/prog/mac/iphone/iphone-moo/Classes/moo2ViewController.h";
+		sourceTree = "<absolute>";
+	};
+	69C686300F9CD4BC00A26F0F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* moo2ViewController.m */;
+		name = "moo2ViewController.m: 53";
+		rLen = 0;
+		rLoc = 1283;
+		rType = 0;
+		vrLen = 1114;
+		vrLoc = 420;
+	};
+	69C686310F9CD4BC00A26F0F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* moo2ViewController.h */;
+		name = "moo2ViewController.h: 16";
+		rLen = 0;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	69C6864F0F9CD66E00A26F0F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 69C686280F9CD4AC00A26F0F /* moo2ViewController.h */;
+		name = "moo2ViewController.h: 16";
+		rLen = 0;
+		rLoc = 257;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 0;
+	};
+}
